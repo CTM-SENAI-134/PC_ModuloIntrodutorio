@@ -46,7 +46,6 @@ Assim como você criou a primeira etiqueta agora crie para a Sprint 2, Front-End
 
 ![image](https://github.com/CTM-SENAI-134/PC_ModuloIntrodutorio/assets/144062335/1f78d8bd-f17e-4864-9c6f-5088c6c5a1b2)
 
-
  ---
 
 ## UC8 - Lógica de Programação
@@ -95,3 +94,45 @@ Então pode seguir os mesmos passos que foram feitos acima né, depois que impri
 
 Agora que você tem todas as informações que precisa, agora vai trabalhar com ela onde de um lado nós iremos somar e do outro subtrair. 
 Para ilustrar uma ação ou um processo nós utilizamos a figura Retângulo então vamos lá, adicione-as e mostre qual operação será realizada.
+
+![image](https://github.com/CTM-SENAI-134/PC_ModuloIntrodutorio/assets/144062335/c80cbec4-945a-4d18-bb44-08dbdbe99d50)
+
+Após isso, você concorda que o ideal seria mostrar para o usuário qual foi o resultado final?
+E ai feito isso podem finalizar o fluxograma.
+Então vamos devolver o resultado da operação, seja ela soma ou subtração e finalizamos o fluxograma com a mesma figura que iniciamos, no final vai ficar assim:
+
+![image](https://github.com/CTM-SENAI-134/PC_ModuloIntrodutorio/assets/144062335/9ef2dd3e-38e8-40d9-ac73-e2bea507c723)
+
+ ---
+
+## UC7 - Versionamento
+
+Agora você vai para a última parte, Versionamento, vai subir o que é realizado na máquina (repositório local) para o seu repositório lá no Github (repositório remoto).
+
+---
+> [!IMPORTANT]
+> O que precisamos ter para conseguir fazer esta atividade?
+> 1) Instalar o Github Desktop
+
+- [ ] Instalação do Github Desktop:
+> https://desktop.github.com/
+---
+
+Após fazer o download você vai entrar com a mesma conta do github e apontar alguns detalhes.
+Agora crie um repositório local clicando em "Create a new repository on your hard drive...".
+
+Preencher com os dados (Nome do repositório e descrição) e clique em “Create repository”.
+Agora vá até a pasta do repositório que acabou de ser criado e dentro dela, crie um arquivo txt e coloque algo dentro dele.
+
+## Caminho: Documentos → Github → nomeDoRepositorio
+
+Então vamos fazer o seu primeiro commit no input escrito "Summary (required)" e clique em “Commit to main”
+
+![image](https://github.com/CTM-SENAI-134/PC_ModuloIntrodutorio/assets/144062335/04885dae-81fb-4776-8dd9-de2cc65a2d71)
+
+Agora é só clicar aqui em “Publish Repository”, dessa forma vamos subir as alterações que foram feitas para o Github.
+Clique em "publish Repository" novamente.
+
+![image](https://github.com/CTM-SENAI-134/PC_ModuloIntrodutorio/assets/144062335/6cdf32cf-6344-4ce9-9254-ff2f52d55bcb)
+
+Agora você pode ir lá no Github para dar uma olhada como ficou! 😎
